@@ -1,0 +1,21 @@
+{
+  "name": "mesher_usdv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "@openzeppelin/hardhat-upgrades": "^3.9.0",
+    "hardhat": "^2.25.0"
+  },
+  "dependencies": {
+    "@opengsn/contracts": "^3.0.0-beta.6",
+    "@openzeppelin/contracts-upgradeable": "^5.3.0"
+  }
+}
